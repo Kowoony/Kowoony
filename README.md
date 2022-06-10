@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kowoony
+- 👀 I’m interested in Genrative art
+- 🌱 I’m currently learning Processing
+- 💞️ I am open to collaborate with coding artists.
